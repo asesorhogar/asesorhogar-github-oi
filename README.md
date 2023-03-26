@@ -31,7 +31,7 @@
                 <img class="logo" src="images/tigorecargadob.jpg" width="250px" alt="God Speaks."><br><br>
                 <!--menu-->
             </div>
-            <h1>El Internet que te conviene!</h1><br><br>
+            <h1> Internet </h1><br><br>
             <!--fin del logo y menu-->
             <!--seccion home-->
             <img src="images/bennnytigo.jpg" width="25%">
