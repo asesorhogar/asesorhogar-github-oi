@@ -22,7 +22,7 @@
 <body>
     <header>
 
-        <h2><big> Benny Eduardo Escobar. Te asesora para que eligas el mejor  entretenimiento!</big></h2>
+        <h2><big> Benny Eduardo Escobar.</big></h2>
         <!--crear la parte del encabezado-->
         <div class="home-wrapper">
             <!--encabezado-->
