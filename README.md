@@ -55,9 +55,9 @@
     </header>
     <section>
 
-        <div>
+        
             <h2>¡Para que siempre estes conectado! </h2><br>
-            </div<br><br>
+           <br><br>
             <div>
                 <img src=" images/triple.jpg " width="25% ">
                 <img src="images/bennnytigo.jpg " width="25% ">
