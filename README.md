@@ -69,10 +69,5 @@
                     <i class="fa fa-whatsapp icono "></i></a><br><br>
                 </div>
 
-    </section>
 
-</body>
-|
-
-</html>
 
