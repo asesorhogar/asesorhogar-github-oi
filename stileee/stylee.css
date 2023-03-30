@@ -34,7 +34,7 @@ fuentes, colores y recursos*/
                     }
                     
                     .btn-wsp {
-                        position: fixed;
+                        position: absolute;
                         width: 60px;
                         height: 60px;
                         left: 10%;
